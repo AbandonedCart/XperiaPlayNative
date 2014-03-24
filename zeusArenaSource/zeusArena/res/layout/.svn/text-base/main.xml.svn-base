@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+>
+
+
+
+
+    <TextView
+    android:id="@+id/textview_title"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Quake2 for Android"
+    android:textSize="21sp"
+    android:textStyle="bold"
+    android:textColor="#ff0000"
+    android:padding="10dp"
+    android:gravity="center"
+    />
+
+
+    <RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+
+    
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        >
+        
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ported to Android by Julien Eyriès\nwith help from Guillaume Legris and others ..."
+            android:textSize="14sp"
+            android:padding="10dp"
+            />
+            
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="for more information on setup, visit this page :\nhttp://sites.google.com/site/quake2android"
+            android:textSize="14sp"
+            android:autoLink="all"  
+            android:linksClickable="true"  
+            android:padding="10dp"
+            />
+            
+                
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="For the settings, press the menu button."
+            android:textSize="14sp"
+            android:padding="10dp"
+            />
+            
+            <Button
+            android:id="@+id/button_start"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Start Quake2"
+            android:padding="20dp"
+            />
+        
+            
+        </LinearLayout>
+    
+
+
+
+
+    </RelativeLayout>
+    
+</LinearLayout>
+
+  

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <LinearLayout android:id="@+id/linearLayout1" android:layout_height="wrap_content" android:layout_width="match_parent" android:orientation="vertical">
+    </LinearLayout>
+    <LinearLayout android:id="@+id/linearLayout2" android:layout_height="wrap_content" android:layout_width="match_parent" android:orientation="vertical">
+        <TextView android:text="Downloading..." android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="wrap_content" android:id="@+id/textView1"></TextView>
+        <ProgressBar style="?android:attr/progressBarStyleHorizontal" android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/progressBar1"></ProgressBar>
+    </LinearLayout>
+    <TextView android:layout_height="wrap_content" android:id="@+id/textView3" android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:text=" "></TextView>
+    <TextView android:layout_width="wrap_content" android:id="@+id/textView4" android:textAppearance="?android:attr/textAppearanceLarge" android:text="Press the menu button in game at any time to change settings" android:layout_height="wrap_content"></TextView>
+    <ScrollView android:layout_width="match_parent" android:id="@+id/scrollView1" android:layout_height="wrap_content">
+        <LinearLayout android:id="@+id/linearLayout3" android:layout_width="match_parent" android:layout_height="match_parent">
+        	<TextView android:layout_height="wrap_content" android:id="@+id/textView2" android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:bufferType="normal" android:layout_gravity="bottom" android:text="Note: You will not be able to play on pure servers if you have only Open Arena installed. If you get the client/server game mismatch error this probably means you are trying to connect to a pure server. If you get this error when trying to play a single player game try opening the menu by pressing the menu key on your phone and then changing the pure server setting under startup options."></TextView>GL_OES_draw_texture
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

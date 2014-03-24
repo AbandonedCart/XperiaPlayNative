@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/ioquake3/code/libcurl/curl
+END
+stdcheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/ioquake3/code/libcurl/curl/stdcheaders.h
+END
+multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/libcurl/curl/multi.h
+END
+mprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/libcurl/curl/mprintf.h
+END
+easy.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/libcurl/curl/easy.h
+END
+curlver.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/libcurl/curl/curlver.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/libcurl/curl/types.h
+END
+curl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/libcurl/curl/curl.h
+END

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    <Button android:id="@+id/button1" android:layout_height="wrap_content" android:layout_width="match_parent" android:text="Controls"></Button>
+    <Button android:id="@+id/button2" android:layout_height="wrap_content" android:layout_width="match_parent" android:text="Client/server mismatch (ioquake3 only)"></Button>
+    <Button android:text="Installing new games" android:id="@+id/button3" android:layout_height="wrap_content" android:layout_width="match_parent"></Button>
+    <Button android:id="@+id/button4" android:layout_height="wrap_content" android:layout_width="match_parent" android:text="Server uses different protocol (ioquake3 only)"></Button>
+    
+</LinearLayout>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/trunk/ioquake3/code/sdl
+END
+sdl_icon.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/sdl/sdl_icon.h
+END
+null_snddma.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/sdl/null_snddma.c
+END
+sdl_input.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/sdl/sdl_input.c
+END
+sdl_gamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/sdl/sdl_gamma.c
+END
+sdl_snd.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/sdl/sdl_snd.c
+END
+sdl_glimp.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/sdl/sdl_glimp.c
+END

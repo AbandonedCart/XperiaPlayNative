@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/ioquake3/misc/msvc
+END
+ui.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/misc/msvc/ui.vcproj
+END
+q3_ui.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/misc/msvc/q3_ui.vcproj
+END
+game.def
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/misc/msvc/game.def
+END
+ioq3.sln
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/misc/msvc/ioq3.sln
+END
+cgame.def
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/misc/msvc/cgame.def
+END
+ui.def
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/ioquake3/misc/msvc/ui.def
+END
+game.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/misc/msvc/game.vcproj
+END
+quake3.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/misc/msvc/quake3.vcproj
+END
+q3_ui.def
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/misc/msvc/q3_ui.def
+END
+cgame.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/misc/msvc/cgame.vcproj
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/33/trunk/ioquake3/code/android
+END
+android_input.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/code/android/android_input.c
+END
+android_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/code/android/android_input.h
+END
+android_snd.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/ioquake3/code/android/android_snd.c
+END
+GenerateQGL.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/android/GenerateQGL.pl
+END
+android_glimp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/33/trunk/ioquake3/code/android/android_glimp.c
+END
+qgl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/android/qgl.h
+END
+android_glimp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/code/android/android_glimp.h
+END

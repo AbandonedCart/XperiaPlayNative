@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/misc/setup/pkg/ioquake3
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/ioquake3/misc/setup/pkg/ioquake3/depend
+END
+prototype.template
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/ioquake3/misc/setup/pkg/ioquake3/prototype.template
+END
+postremove
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/ioquake3/misc/setup/pkg/ioquake3/postremove
+END
+preremove
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/ioquake3/misc/setup/pkg/ioquake3/preremove
+END
+pkginfo.template
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/ioquake3/misc/setup/pkg/ioquake3/pkginfo.template
+END
+space
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ioquake3/misc/setup/pkg/ioquake3/space
+END
+postinstall
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/ioquake3/misc/setup/pkg/ioquake3/postinstall
+END
+preinstall
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/ioquake3/misc/setup/pkg/ioquake3/preinstall
+END

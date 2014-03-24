@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl
+END
+gl_rmisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/gl_rmisc.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/jmorecfg.h
+END
+gl_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/gl_image.c
+END
+anorms.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/anorms.h
+END
+anormtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/anormtab.h
+END
+gl_mesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/gl_mesh.c
+END
+gl_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/gl_draw.c
+END
+gl_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/gl_local.h
+END
+gl_model.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/gl_model.c
+END
+gl_rsurf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/gl_rsurf.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/jconfig.h
+END
+gl_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/gl_model.h
+END
+gl_rmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/gl_rmain.c
+END
+warpsin.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/warpsin.h
+END
+qgl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/qgl.h
+END
+gl_light.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/gl_light.c
+END
+gl_warp.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/src/ref_candygl/gl_warp.c
+END

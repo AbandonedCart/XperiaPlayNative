@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1">
+    <ScrollView android:layout_width="match_parent" android:id="@+id/scrollView1" android:layout_weight="0.31" android:layout_height="160px">
+        <LinearLayout android:id="@+id/linearLayout2" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+            <TextView android:text="Press continue to begin." android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:id="@+id/textView1"></TextView>
+            <TextView android:text="To select a control tap on it. If two controls are touched the smaller one will be seleceted." android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:id="@+id/textView2"></TextView>
+            <TextView android:text="Once a control is selected it can be made bigger or smaller with a pinching gesture or moved by draging the control." android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:id="@+id/textView3"></TextView>
+            <TextView android:text="Long touch on a control to show more options (transparency, removing the control), long touch outside any control to add more controls." android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:id="@+id/textView4"></TextView>
+        </LinearLayout>
+    </ScrollView>GL_OES_draw_texture
+
+
+
+
+    
+    <LinearLayout android:id="@+id/linearLayout1" android:layout_height="wrap_content" android:layout_width="match_parent">
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/arrangeOk" android:text="Continue"></Button>
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Cancel" android:id="@+id/arrangeCancel"></Button>
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

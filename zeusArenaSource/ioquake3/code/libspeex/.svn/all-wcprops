@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex
+END
+modes_wb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/modes_wb.c
+END
+lsp_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/lsp_bfin.h
+END
+bits.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/bits.c
+END
+ltp_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/ltp_bfin.h
+END
+nb_celp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/nb_celp.c
+END
+mdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/mdf.c
+END
+sb_celp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/sb_celp.c
+END
+nb_celp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/nb_celp.h
+END
+kiss_fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/kiss_fft.c
+END
+quant_lsp_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/quant_lsp_bfin.h
+END
+cb_search.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/cb_search.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/config.h
+END
+sb_celp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/sb_celp.h
+END
+kiss_fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/kiss_fft.h
+END
+cb_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/cb_search.h
+END
+ltp_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/ltp_sse.h
+END
+lpc_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/lpc_bfin.h
+END
+filterbank.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/filterbank.c
+END
+os_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/os_support.h
+END
+testenc_uwb.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/testenc_uwb.c
+END
+gain_table_lbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/gain_table_lbr.c
+END
+speex.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/speex.c
+END
+filterbank.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/filterbank.h
+END
+filters_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/filters_sse.h
+END
+kiss_fftr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/kiss_fftr.c
+END
+hexc_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/hexc_table.c
+END
+kiss_fftr.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/kiss_fftr.h
+END
+ltp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/ltp.c
+END
+fixed_generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/fixed_generic.h
+END
+smallft.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/smallft.c
+END
+hexc_10_32_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/hexc_10_32_table.c
+END
+ltp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/ltp.h
+END
+vq_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/vq_sse.h
+END
+modes.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/modes.c
+END
+lsp_tables_nb.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/lsp_tables_nb.c
+END
+smallft.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/smallft.h
+END
+filters.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/filters.c
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/resample.c
+END
+fixed_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/fixed_debug.h
+END
+filters_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/filters_bfin.h
+END
+cb_search_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/cb_search_bfin.h
+END
+modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/modes.h
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/filters.h
+END
+vq_arm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/vq_arm4.h
+END
+testecho.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/testecho.c
+END
+_kiss_fft_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/_kiss_fft_guts.h
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/arch.h
+END
+stack_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/stack_alloc.h
+END
+vq.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/vq.c
+END
+testdenoise.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/testdenoise.c
+END
+ltp_arm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/ltp_arm4.h
+END
+exc_10_32_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/exc_10_32_table.c
+END
+exc_20_32_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/exc_20_32_table.c
+END
+vq.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/vq.h
+END
+lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/lsp.c
+END
+stereo.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/stereo.c
+END
+jitter.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/jitter.c
+END
+fixed_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/fixed_bfin.h
+END
+lsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/lsp.h
+END
+vorbis_psy.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/vorbis_psy.h
+END
+quant_lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/quant_lsp.c
+END
+exc_8_128_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/exc_8_128_table.c
+END
+fftwrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/fftwrap.c
+END
+quant_lsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/quant_lsp.h
+END
+fftwrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/fftwrap.h
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/lpc.c
+END
+speex_callbacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/speex_callbacks.c
+END
+lpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/lpc.h
+END
+gain_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/gain_table.c
+END
+math_approx.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/math_approx.h
+END
+vbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/vbr.c
+END
+echo_diagnostic.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/echo_diagnostic.m
+END
+fixed_arm5e.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/fixed_arm5e.h
+END
+misc_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/misc_bfin.h
+END
+vbr.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/vbr.h
+END
+filters_arm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/filters_arm4.h
+END
+cb_search_arm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/cb_search_arm4.h
+END
+testenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/testenc.c
+END
+exc_5_256_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/exc_5_256_table.c
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/window.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/buffer.c
+END
+exc_5_64_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/exc_5_64_table.c
+END
+preprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/preprocess.c
+END
+fixed_arm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/fixed_arm4.h
+END
+high_lsp_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/high_lsp_tables.c
+END
+cb_search_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/cb_search_sse.h
+END
+vq_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/vq_bfin.h
+END
+pseudofloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/pseudofloat.h
+END
+speex_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/speex_header.c
+END
+exc_10_16_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/exc_10_16_table.c
+END
+testenc_wb.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/libspeex/testenc_wb.c
+END

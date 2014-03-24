@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui
+END
+ui_preferences.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_preferences.c
+END
+ui_mods.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_mods.c
+END
+ui_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_menu.c
+END
+ui_display.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_display.c
+END
+ui_splevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_splevel.c
+END
+ui_servers2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_servers2.c
+END
+ui_rankings.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_rankings.c
+END
+ui_playermodel.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_playermodel.c
+END
+ui_playersettings.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_playersettings.c
+END
+ui_serverinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_serverinfo.c
+END
+ui_atoms.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_atoms.c
+END
+ui_startserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_startserver.c
+END
+ui_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_main.c
+END
+ui_removebots.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_removebots.c
+END
+ui_gameinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_gameinfo.c
+END
+ui_qmenu.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_qmenu.c
+END
+ui_spreset.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_spreset.c
+END
+ui_specifyleague.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_specifyleague.c
+END
+ui_controls2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_controls2.c
+END
+ui_sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_sound.c
+END
+ui_network.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_network.c
+END
+ui_confirm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_confirm.c
+END
+ui_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_local.h
+END
+ui_rankstatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_rankstatus.c
+END
+ui_mfield.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_mfield.c
+END
+ui_teamorders.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_teamorders.c
+END
+ui_signup.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_signup.c
+END
+ui_loadconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_loadconfig.c
+END
+ui_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_video.c
+END
+ui_demo2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_demo2.c
+END
+ui_login.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_login.c
+END
+ui_cinematics.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_cinematics.c
+END
+ui_players.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_players.c
+END
+ui_addbots.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_addbots.c
+END
+ui_spskill.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_spskill.c
+END
+ui_sppostgame.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_sppostgame.c
+END
+ui_saveconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_saveconfig.c
+END
+ui_team.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_team.c
+END
+ui_connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_connect.c
+END
+ui_sparena.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_sparena.c
+END
+ui_specifyserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_specifyserver.c
+END
+ui_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_options.c
+END
+ui_credits.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_credits.c
+END
+ui_cdkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_cdkey.c
+END
+ui_ingame.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_ingame.c
+END
+ui_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/q3_ui/ui_setup.c
+END

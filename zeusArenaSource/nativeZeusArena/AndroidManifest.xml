@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="org.zeus.arena"
+      android:versionCode="31"
+      android:versionName="3.0c"
+      android:installLocation="preferExternal">
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <supports-screens android:smallScreens="true" 
+                      android:normalScreens="true" 
+                      android:largeScreens="true"  
+                      android:anyDensity="true" />
+    <activity android:name="org.zeus.arena.Main"
+                  android:label="@string/app_name" 
+                  android:screenOrientation="landscape"
+                  android:launchMode="singleTask"
+                  android:multiprocess="false"
+                  android:finishOnTaskLaunch="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="quake.two.android.Quake2"
+                  android:label="@string/app_name" 
+                  android:screenOrientation="landscape"
+                  android:launchMode="singleTask"
+                  android:multiprocess="false"
+                  android:finishOnTaskLaunch="true">
+                  <meta-data android:name="android.app.lib_name"
+                    android:value="quake2"/>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+    <activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTop" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="quake.two.android.StartupOptions">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" /> 
+            </intent-filter>  
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTop" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="quake.two.android.ControlLayout">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" /> 
+            </intent-filter>  
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTop" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="quake.two.android.GameNotFound">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+			</intent-filter>
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTop" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="quake.two.android.Help">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTop" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="quake.two.android.HelpDetails">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTask" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="quake.two.android.Menu">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+			</intent-filter>
+		</activity>
+		<activity android:label="Quake2" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTask" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="quake.two.controls.Controls">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+			</intent-filter>
+		</activity>
+	<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTask" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="org.zeus.arena.Game">
+			<meta-data android:name="android.app.lib_name"
+                    android:value="kwaakjni"/>
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+			</intent-filter>    
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTop" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="org.zeus.arena.Downloader">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+			</intent-filter>
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTop" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="org.zeus.arena.ControlLayout">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTop" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="org.zeus.arena.StartupOptions">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" /> 
+            </intent-filter>  
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTop" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="GameNotFound">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+			</intent-filter>
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTop" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="Help">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTop" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="HelpDetails">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTask" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="org.zeus.arena.Menu">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+			</intent-filter>
+		</activity>
+		<activity android:label="@string/app_name" 
+				android:screenOrientation="landscape" 
+				android:launchMode="singleTask" 
+				android:configChanges="keyboard|keyboardHidden|orientation" 
+				android:name="org.zeus.arena.controls.Controls">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+			</intent-filter>
+		</activity>
+		<meta-data android:name="xperiaplayoptimized_content" android:resource="@drawable/icon"/>
+    </application>
+    <uses-sdk android:minSdkVersion="9"/>
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+	<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.WAKE_LOCK"></uses-permission>
+    <uses-permission android:name="android.permission.VIBRATE"></uses-permission>
+</manifest>

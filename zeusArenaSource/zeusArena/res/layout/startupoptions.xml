@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    <TextView android:layout_width="wrap_content" android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_height="wrap_content" android:text="Restart for changes to these settings to take effect"></TextView>
+    <ScrollView android:layout_height="wrap_content" android:id="@+id/scrollView1" android:layout_width="match_parent">
+        <LinearLayout android:id="@+id/linearLayout1" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+            <CheckBox android:text="Sound on" android:layout_height="wrap_content" android:id="@+id/soundCheckBox" android:layout_width="wrap_content"></CheckBox>
+            <CheckBox android:text="Lightmaps on" android:layout_height="wrap_content" android:id="@+id/lightmapsCheckBox" android:layout_width="wrap_content"></CheckBox>
+            <CheckBox android:text="Show FPS" android:layout_height="wrap_content" android:id="@+id/fpsCheckBox" android:layout_width="wrap_content"></CheckBox>
+            <CheckBox android:text="Pure servers" android:layout_height="wrap_content" android:id="@+id/pureServers" android:layout_width="wrap_content"></CheckBox>
+            <CheckBox android:text="Open Arena Protocol" android:layout_height="wrap_content" android:id="@+id/protocolBox" android:layout_width="wrap_content"></CheckBox>
+        </LinearLayout>
+    </ScrollView>
+    
+</LinearLayout>

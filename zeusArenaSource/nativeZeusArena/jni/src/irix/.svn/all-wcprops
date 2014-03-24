@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/jni/src/irix
+END
+net_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/irix/net_udp.c
+END
+glw_imp.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/irix/glw_imp.c
+END
+q2icon.xbm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/src/irix/q2icon.xbm
+END
+vid_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/src/irix/vid_menu.c
+END
+sys_irix.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/src/irix/sys_irix.c
+END
+Makefile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/src/irix/Makefile.txt
+END
+qgl_irix.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/src/irix/qgl_irix.c
+END
+snd_irix.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/src/irix/snd_irix.c
+END
+rw_x11.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/irix/rw_x11.c
+END
+cd_irix.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/irix/cd_irix.c
+END
+glob.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/jni/src/irix/glob.c
+END
+vid_so.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/irix/vid_so.c
+END
+net_udp6.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/src/irix/net_udp6.c
+END
+snd_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/irix/snd_sdl.c
+END
+q_shirix.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/src/irix/q_shirix.c
+END
+rw_irix.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/irix/rw_irix.h
+END
+cd_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/irix/cd_sdl.c
+END
+glob.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/jni/src/irix/glob.h
+END
+rw_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/irix/rw_sdl.c
+END

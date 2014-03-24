@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >GL_OES_draw_texture
+
+
+
+
+
+<ScrollView android:id="@+id/scrollView1" android:layout_height="match_parent" android:layout_width="match_parent">
+    <LinearLayout android:id="@+id/linearLayout1" android:layout_height="wrap_content" android:layout_width="match_parent" android:orientation="vertical">
+        <RadioGroup android:id="@+id/radioGroup1" android:layout_height="wrap_content" android:layout_width="wrap_content">
+            <RadioButton android:layout_width="wrap_content" android:id="@+id/improvedControls" android:text="Improved controls" android:layout_height="wrap_content" android:checked="true"></RadioButton>
+            <RadioButton android:layout_width="wrap_content" android:id="@+id/traditionalControls" android:text="Traditional controls" android:layout_height="wrap_content"></RadioButton>
+            <RadioButton android:layout_width="wrap_content" android:id="@+id/noControls" android:text="None" android:layout_height="wrap_content"></RadioButton>
+        </RadioGroup>
+        <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Arrange touch screen controls" android:id="@+id/arrangeButton"></Button>
+        <CheckBox android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/leftRight" android:text="Left/Right to turn"></CheckBox>
+        <CheckBox android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/checkBox1" android:text="Vibrations"></CheckBox>
+        <RadioGroup android:id="@+id/radioGroup2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <RadioButton android:id="@+id/radio0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="Xperia play: Swipe to look"></RadioButton>
+            <RadioButton android:id="@+id/radio1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Xperia play: Virtual analog stick"></RadioButton>
+        </RadioGroup>
+        <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Reset Defaults" android:id="@+id/defaults"></Button>
+    </LinearLayout>
+</ScrollView>
+
+
+
+
+</LinearLayout>

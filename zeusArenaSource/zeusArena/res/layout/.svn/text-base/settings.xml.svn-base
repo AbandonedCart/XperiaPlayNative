@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:id="@+id/view_setting"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+
+
+    <TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Android settings"
+    android:textSize="21sp"
+    android:textStyle="bold"
+    android:textColor="#0000ff"
+    android:padding="10dp"
+    android:gravity="center"
+    />
+
+    <ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    
+        <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+    
+            <CheckBox
+            android:id="@+id/checkbox_debug"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="debug : print more info to logcat"
+            android:checked="true"
+            />
+            
+            
+            <CheckBox
+            android:id="@+id/checkbox_sound"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sound : nobody will hear you playing Quake at work ...."
+            android:checked="true"
+            />
+        
+            
+            <CheckBox
+            android:id="@+id/checkbox_sensor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sensor : move using the sensors of your phone"
+            android:checked="true"
+            />
+            
+            <CheckBox
+            android:id="@+id/checkbox_vibrator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="vibrator : vibrate when hit and touchscreen feedback"
+            android:checked="true"
+            />
+        
+            
+            <CheckBox
+            android:id="@+id/checkbox_ecomode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="eco mode : framerate limitation saves your battery"
+            android:checked="true"
+            />
+
+        </LinearLayout>
+                
+    </ScrollView>
+    
+</LinearLayout>

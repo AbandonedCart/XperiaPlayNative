@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/misc/osxfe/ioquake3fe
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/misc/osxfe/ioquake3fe/main.m
+END
+ErrorWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/ioquake3/misc/osxfe/ioquake3fe/ErrorWindowController.m
+END
+ioquake3fe_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/ioquake3/misc/osxfe/ioquake3fe/ioquake3fe_Prefix.pch
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/ioquake3/misc/osxfe/ioquake3fe/Info.plist
+END
+ErrorWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/ioquake3/misc/osxfe/ioquake3fe/ErrorWindow.h
+END
+Controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/ioquake3/misc/osxfe/ioquake3fe/Controller.h
+END
+ErrorWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/ioquake3/misc/osxfe/ioquake3fe/ErrorWindowController.h
+END
+ioquake3.icns
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/ioquake3/misc/osxfe/ioquake3fe/ioquake3.icns
+END
+ErrorWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/ioquake3/misc/osxfe/ioquake3fe/ErrorWindow.m
+END
+Controller.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/ioquake3/misc/osxfe/ioquake3fe/Controller.m
+END

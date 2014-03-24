@@ -1,0 +1,11 @@
+Quake2 on Android
+
+Credits :
+
+Julien Eyriès for initial port, 3D, audio
+Guillaume Legris for adding controls
+Lukács Péter for the icon
+Id Software for Quake2 GPL code
+People at icculus.org for linux patch
+Olli Hinkka for NanoGL
+

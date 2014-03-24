@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/11/trunk/jni/src/android
+END
+sys_android.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/jni/src/android/sys_android.c
+END
+rw_in_android.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/jni/src/android/rw_in_android.c
+END
+glesinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/jni/src/android/glesinterface.h
+END
+qgl_android.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/jni/src/android/qgl_android.c
+END
+nanogl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/src/android/nanogl.h
+END
+vid_so.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/src/android/vid_so.c
+END
+snd_android.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/jni/src/android/snd_android.c
+END
+nanoWrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/jni/src/android/nanoWrap.c
+END
+quake2-jni.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/trunk/jni/src/android/quake2-jni.c
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/jni/src/android/gl.h
+END
+glimp_android.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8/trunk/jni/src/android/glimp_android.c
+END
+quake2-jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/jni/src/android/quake2-jni.h
+END
+rw_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/jni/src/android/rw_android.h
+END

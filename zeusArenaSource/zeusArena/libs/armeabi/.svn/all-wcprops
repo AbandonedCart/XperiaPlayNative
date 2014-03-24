@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/11/trunk/libs/armeabi
+END
+libquake2.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11/trunk/libs/armeabi/libquake2.so
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/libs/armeabi/.gitignore
+END

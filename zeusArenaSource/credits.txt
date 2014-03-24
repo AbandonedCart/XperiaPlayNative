@@ -1,0 +1,7 @@
+Thanks to:
+*Id software for the open source engines
+*The Open Arena team
+*The ioquake3 team
+*The creator of kwaak3
+*The Quake2Android team
+*Anyone I may have missed!

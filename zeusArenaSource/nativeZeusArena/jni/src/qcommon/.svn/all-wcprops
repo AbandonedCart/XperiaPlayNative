@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/trunk/jni/src/qcommon
+END
+qcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/src/qcommon/qcommon.h
+END
+net_chan.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/src/qcommon/net_chan.c
+END
+files.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/jni/src/qcommon/files.c
+END
+cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/qcommon/cmd.c
+END
+cmodel.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/src/qcommon/cmodel.c
+END
+md4.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/qcommon/md4.c
+END
+pmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/src/qcommon/pmove.c
+END
+crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/qcommon/crc.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/jni/src/qcommon/common.c
+END
+qfiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/src/qcommon/qfiles.h
+END
+cvar.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/qcommon/cvar.c
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/qcommon/crc.h
+END

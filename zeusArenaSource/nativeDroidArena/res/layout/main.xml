@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:text="Start ioquake3" android:id="@+id/startEngine1"></Button>
+    <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:text="Start engine 2" android:id="@+id/startEngine2"></Button>
+    
+</LinearLayout>

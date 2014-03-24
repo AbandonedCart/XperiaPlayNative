@@ -1,0 +1,47 @@
+changelist 1.91:
+ARMV7 support (FPU)
+minimum SDK is now Android 1.6
+support any screen density
+support multiple screen size
+tested with HTC Desire HD (Android 2.2) and Samsung Galaxy (Android 1.6)
+
+changelist 1.81 :
+- switched to Ant build system
+- new overlay for DPAD emulation (for ex: Samsung Galaxy S)
+
+changelist 1.8 :
+- corrected crash in video menu 
+- extract players directory from demo file 
+- fixed download bug 
+- tested multiplayer game : working OK !
+
+changelist 1.7 :
+- disabled multitexturing for PowerVR chipset (Motorola Droid)
+- added overlay for keyboard and control (press upper left corner of touchscreen)
+
+changelist 1.6 :
+- signed application package
+- calibration of sensors (each time you press the touchscreen)
+- enabled multi-texturing
+- corrected color bug
+- added automatic update check 
+- added mirrors list to download tool 
+
+changelist 1.5 :
+- stability improvement
+- improved controls (sensors for moving, 5 virtual button on the touschscreen)
+- added vibration
+- added settings and restore config
+
+changelist 1.4 :
+- stability improvement
+- added sensor support (touch the screen and tilt the phone)
+- added soft keyboard (press menu key in the game)
+
+
+changelist 1.3 :
+- new icon
+- corrected transparent wall bug
+- force clean exit 
+
+

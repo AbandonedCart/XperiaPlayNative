@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/asm
+END
+ops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/asm/ops.txt
+END
+cmdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/asm/cmdlib.h
+END
+lib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/asm/lib.txt
+END
+q3asm.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/asm/q3asm.c
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/asm/notes.txt
+END
+mathlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/asm/mathlib.h
+END
+README.Id
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/asm/README.Id
+END
+cmdlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/asm/cmdlib.c
+END
+opstrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/asm/opstrings.h
+END

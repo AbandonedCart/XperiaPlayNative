@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/33/trunk/ioquake3
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/trunk/ioquake3/BUGS
+END
+id-readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/ioquake3/id-readme.txt
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/trunk/ioquake3/TODO
+END
+voip-readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/ioquake3/voip-readme.txt
+END
+COPYING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/ioquake3/COPYING.txt
+END
+NOTTODO
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/trunk/ioquake3/NOTTODO
+END
+Makefile.local
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/22/trunk/ioquake3/Makefile.local
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/ioquake3/ChangeLog
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/ioquake3/.svnignore
+END
+md4-readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/ioquake3/md4-readme.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/trunk/ioquake3/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/22/trunk/ioquake3/Makefile
+END

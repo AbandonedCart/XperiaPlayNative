@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/4/trunk/ioquake3/ui
+END
+hud2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/ioquake3/ui/hud2.txt
+END
+menus.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/ioquake3/ui/menus.txt
+END
+menudef.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/ioquake3/ui/menudef.h
+END
+ingame.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/ioquake3/ui/ingame.txt
+END
+hud.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/ioquake3/ui/hud.txt
+END

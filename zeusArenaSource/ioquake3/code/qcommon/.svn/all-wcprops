@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31/trunk/ioquake3/code/qcommon
+END
+cm_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/cm_test.c
+END
+puff.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/puff.c
+END
+vm_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_local.h
+END
+cm_public.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/cm_public.h
+END
+puff.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/puff.h
+END
+q_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/q_math.c
+END
+q_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/q_platform.h
+END
+surfaceflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/surfaceflags.h
+END
+vm_sparc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_sparc.c
+END
+cm_patch.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/cm_patch.c
+END
+cm_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/cm_local.h
+END
+vm_sparc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_sparc.h
+END
+net_chan.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/net_chan.c
+END
+vm_powerpc_asm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_powerpc_asm.c
+END
+cm_patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/cm_patch.h
+END
+md4.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/md4.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/md5.c
+END
+vm_powerpc_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_powerpc_asm.h
+END
+q_shared.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/q_shared.c
+END
+vm_x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_x86.c
+END
+cm_polylib.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/cm_polylib.c
+END
+q_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/q_shared.h
+END
+cm_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/cm_load.c
+END
+cm_polylib.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/cm_polylib.h
+END
+vm_x86_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_x86_64.c
+END
+vm_none.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_none.c
+END
+files.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/files.c
+END
+cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/cmd.c
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/unzip.c
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/unzip.h
+END
+cm_trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/cm_trace.c
+END
+qcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/qcommon.h
+END
+net_ip.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/ioquake3/code/qcommon/net_ip.c
+END
+vm_powerpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_powerpc.c
+END
+vm.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm.c
+END
+huffman.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/huffman.c
+END
+vm_ppc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_ppc.c
+END
+msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/msg.c
+END
+vm_interpreted.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_interpreted.c
+END
+qfiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/qfiles.h
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/common.c
+END
+cvar.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/cvar.c
+END
+vm_x86_64_assembler.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/ioquake3/code/qcommon/vm_x86_64_assembler.c
+END

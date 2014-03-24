@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/jni/src/ctf
+END
+g_spawn.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_spawn.c
+END
+g_save.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_save.c
+END
+g_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_local.h
+END
+g_svcmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_svcmds.c
+END
+p_weapon.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/ctf/p_weapon.c
+END
+g_combat.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_combat.c
+END
+m_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/ctf/m_player.h
+END
+ctf.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/jni/src/ctf/ctf.dsp
+END
+m_move.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/src/ctf/m_move.c
+END
+q_shared.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/ctf/q_shared.c
+END
+g_phys.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_phys.c
+END
+g_chase.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_chase.c
+END
+g_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_main.c
+END
+q_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/ctf/q_shared.h
+END
+g_target.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_target.c
+END
+p_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/ctf/p_client.c
+END
+g_monster.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_monster.c
+END
+g_ai.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_ai.c
+END
+g_weapon.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_weapon.c
+END
+p_hud.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/jni/src/ctf/p_hud.c
+END
+g_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_misc.c
+END
+g_func.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_func.c
+END
+g_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_utils.c
+END
+g_trigger.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_trigger.c
+END
+game.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/jni/src/ctf/game.h
+END
+g_ctf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_ctf.c
+END
+p_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/src/ctf/p_menu.c
+END
+g_ctf.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_ctf.h
+END
+g_items.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_items.c
+END
+p_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/src/ctf/p_menu.h
+END
+ctf.def
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/jni/src/ctf/ctf.def
+END
+p_view.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/src/ctf/p_view.c
+END
+p_trail.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/src/ctf/p_trail.c
+END
+g_cmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/src/ctf/g_cmds.c
+END

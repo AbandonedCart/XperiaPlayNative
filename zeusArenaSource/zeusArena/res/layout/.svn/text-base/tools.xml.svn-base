@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+
+    <TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Quake 2 Tools"
+    android:textSize="21sp"
+    android:textStyle="bold"
+    android:textColor="#00ff00"
+    android:padding="10dp"
+    android:gravity="center"
+    />
+    
+    <ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    
+        <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+            
+            <Button
+            android:id="@+id/button_download"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Download data file"
+            />
+            
+            <Spinner 
+            android:id="@+id/spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawSelectorOnTop="true"
+            android:prompt="@string/mirror_prompt"
+            />
+                
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This tool will extract the pak0.pak file from the Quake2 Demo\nWarning : this is a 40 MB download, if possible enable WIFI"
+            android:textSize="14sp"
+            />
+    
+            
+            <Button
+            android:id="@+id/button_config"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Restore config file"
+            />
+    
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Set up a default config for Android phones\nwith support for touchscreen and sensors."
+            android:textSize="14sp"
+            />
+    
+    
+        </LinearLayout>
+              
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/ioquake3/code/game
+END
+g_spawn.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_spawn.c
+END
+bg_slidemove.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/game/bg_slidemove.c
+END
+g_syscalls.asm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_syscalls.asm
+END
+g_team.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_team.h
+END
+ai_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_main.h
+END
+g_syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_syscalls.c
+END
+bg_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/bg_misc.c
+END
+g_svcmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_svcmds.c
+END
+g_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_local.h
+END
+g_combat.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_combat.c
+END
+ai_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_cmd.c
+END
+syn.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/ioquake3/code/game/syn.h
+END
+g_arenas.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_arenas.c
+END
+ai_dmnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_dmnet.c
+END
+ai_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_cmd.h
+END
+g_active.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_active.c
+END
+g_rankings.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_rankings.c
+END
+g_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_mem.c
+END
+ai_dmnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_dmnet.h
+END
+g_rankings.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_rankings.h
+END
+g_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_session.c
+END
+g_public.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_public.h
+END
+g_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_main.c
+END
+g_bot.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_bot.c
+END
+g_target.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_target.c
+END
+g_mover.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_mover.c
+END
+bg_pmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/bg_pmove.c
+END
+g_weapon.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_weapon.c
+END
+ai_team.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_team.c
+END
+inv.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/ioquake3/code/game/inv.h
+END
+g_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_misc.c
+END
+match.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/ioquake3/code/game/match.h
+END
+ai_vcmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_vcmd.c
+END
+ai_team.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_team.h
+END
+chars.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/ioquake3/code/game/chars.h
+END
+g_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_utils.c
+END
+bg_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/bg_local.h
+END
+ai_vcmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_vcmd.h
+END
+g_trigger.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_trigger.c
+END
+g_missile.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_missile.c
+END
+ai_dmq3.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_dmq3.c
+END
+bg_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/game/bg_lib.c
+END
+ai_dmq3.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_dmq3.h
+END
+bg_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/game/bg_lib.h
+END
+g_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_client.c
+END
+g_items.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_items.c
+END
+ai_chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_chat.c
+END
+bg_public.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/ioquake3/code/game/bg_public.h
+END
+g_cmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_cmds.c
+END
+g_team.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/game/g_team.c
+END
+ai_chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_chat.h
+END
+ai_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/ioquake3/code/game/ai_main.c
+END

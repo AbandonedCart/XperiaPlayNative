@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2/depend
+END
+prototype.template
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2/prototype.template
+END
+postremove
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2/postremove
+END
+preremove
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2/preremove
+END
+prototype
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2/prototype
+END
+pkginfo.template
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2/pkginfo.template
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2/copyright
+END
+space
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2/space
+END
+postinstall
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2/postinstall
+END
+pkginfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2/pkginfo
+END
+preinstall
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/src/solaris/pkg/iDquake2/preinstall
+END

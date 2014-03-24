@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/lburg
+END
+lburg.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/lburg/lburg.h
+END
+gram.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/lburg/gram.c
+END
+lburg.1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/lburg/lburg.1
+END
+lburg.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/lburg/lburg.c
+END
+gram.y
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/lburg/gram.y
+END

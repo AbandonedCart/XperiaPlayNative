@@ -1,0 +1,5 @@
+use the ndk compilier to compile droidArena for the libkwaakjni.so for zeusArena and nativeDroidArena for nativeZeusArena. The .so files will be placed the libs folder for either droidArena or nativeDroidArena (depending on which one you compilied). Move the .so files to the libs folder of zeusArena or nativeZeusArena (depending on the version you are using).
+
+for each version of zeus arena (droidArena, nativeDroidArena, zeusArena, nativeZeusArena) the ones with the word native at the front are for android versions 2.3 and up only, the others support 2.2 as well.
+
+when compiling libquake2.so it will complain about not being able to find kwaakjni, don't worry just follow the steps above.

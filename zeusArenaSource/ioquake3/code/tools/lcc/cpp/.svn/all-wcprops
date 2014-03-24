@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp
+END
+macro.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp/macro.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp/getopt.c
+END
+cpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp/cpp.c
+END
+include.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp/include.c
+END
+unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp/unix.c
+END
+tokens.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp/tokens.c
+END
+hideset.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp/hideset.c
+END
+eval.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp/eval.c
+END
+cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp/cpp.h
+END
+lex.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp/lex.c
+END
+nlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/cpp/nlist.c
+END

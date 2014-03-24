@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/30/trunk/kwaak/project/jni
+END
+kwaakjni.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/30/trunk/kwaak/project/jni/kwaakjni.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/kwaak/project/jni/Android.mk
+END
+org_kwaak3_KwaakJNI.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/trunk/kwaak/project/jni/org_kwaak3_KwaakJNI.h
+END

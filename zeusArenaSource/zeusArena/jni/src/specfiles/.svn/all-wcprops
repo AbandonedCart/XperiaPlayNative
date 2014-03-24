@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/jni/src/specfiles
+END
+quake2.axp.spec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/src/specfiles/quake2.axp.spec.sh
+END
+quake2-data.spec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/src/specfiles/quake2-data.spec.sh
+END
+quake2-ctf.spec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/src/specfiles/quake2-ctf.spec.sh
+END
+quake2-xatrix.spec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/src/specfiles/quake2-xatrix.spec.sh
+END
+quake2-patch.spec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/src/specfiles/quake2-patch.spec.sh
+END
+quake2-rogue.spec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/src/specfiles/quake2-rogue.spec.sh
+END
+quake2.spec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/src/specfiles/quake2.spec.sh
+END
+quake2-xatrix-video.spec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/jni/src/specfiles/quake2-xatrix-video.spec.sh
+END
+quake2-rogue-video.spec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/jni/src/specfiles/quake2-rogue-video.spec.sh
+END
+quake2-video.spec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/src/specfiles/quake2-video.spec.sh
+END

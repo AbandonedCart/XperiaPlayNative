@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src
+END
+bytecode.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/bytecode.c
+END
+trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/trace.c
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/output.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/init.c
+END
+types.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/types.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/string.c
+END
+decl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/decl.c
+END
+dagcheck.md
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/dagcheck.md
+END
+sym.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/sym.c
+END
+simp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/simp.c
+END
+null.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/null.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/config.h
+END
+stmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/stmt.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/error.c
+END
+enode.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/enode.c
+END
+dag.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/dag.c
+END
+profio.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/profio.c
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/tree.c
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/input.c
+END
+prof.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/prof.c
+END
+gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/gen.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/list.c
+END
+bind.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/bind.c
+END
+expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/expr.c
+END
+symbolic.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/symbolic.c
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/event.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/main.c
+END
+token.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/token.h
+END
+inits.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/inits.c
+END
+c.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/c.h
+END
+lex.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/lex.c
+END
+alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/ioquake3/code/tools/lcc/src/alloc.c
+END

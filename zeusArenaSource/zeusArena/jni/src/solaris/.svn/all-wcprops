@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/jni/src/solaris
+END
+net_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/src/solaris/net_udp.c
+END
+q2icon.xbm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/src/solaris/q2icon.xbm
+END
+rw_xil.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/src/solaris/rw_xil.c
+END
+vid_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/src/solaris/vid_menu.c
+END
+Makefile.Solaris
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/src/solaris/Makefile.Solaris
+END
+ndga.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/solaris/ndga.c
+END
+sys_solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/src/solaris/sys_solaris.c
+END
+gl_glx.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/src/solaris/gl_glx.c
+END
+newt.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/solaris/newt.c
+END
+ndga.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/solaris/ndga.h
+END
+qgl_solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/src/solaris/qgl_solaris.c
+END
+snd_solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/src/solaris/snd_solaris.c
+END
+gl_glx.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/src/solaris/gl_glx.h
+END
+rw_x11.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/src/solaris/rw_x11.c
+END
+cd_solaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/src/solaris/cd_solaris.c
+END
+newt.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/solaris/newt.h
+END
+glob.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/solaris/glob.c
+END
+vid_so.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/src/solaris/vid_so.c
+END
+qgl_solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/src/solaris/qgl_solaris.h
+END
+sndtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/src/solaris/sndtest.c
+END
+snd_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/src/solaris/snd_sdl.c
+END
+readme.solaris
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/src/solaris/readme.solaris
+END
+g_so.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/solaris/g_so.c
+END
+q_shsolaris.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/src/solaris/q_shsolaris.c
+END
+cd_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/src/solaris/cd_sdl.c
+END
+glob.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/src/solaris/glob.h
+END
+rw_corona.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/src/solaris/rw_corona.c
+END
+rw_solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/src/solaris/rw_solaris.h
+END
+rw_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/src/solaris/rw_sdl.c
+END
+glw_solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/src/solaris/glw_solaris.h
+END
